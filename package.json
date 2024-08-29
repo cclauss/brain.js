@@ -6,7 +6,6 @@
   },
   "description": "Neural networks in JavaScript",
   "dependencies": {
-    "node-gyp": "^10.2.0",
     "thaw.js": "^2.1.4"
   },
   "peerDependencies": {
